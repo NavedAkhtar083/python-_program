@@ -1,0 +1,14 @@
+a=10
+print(id(a))
+b=10
+print(id(b))
+c=20
+print(id(c))
+y=a
+print(id(a))
+A=10
+print(A)
+_name="naved"
+print(_name)
+full_name="namebinod"
+print(full_name)

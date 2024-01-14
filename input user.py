@@ -1,0 +1,11 @@
+d={10,20,"hello world"}
+print("before copying:")
+print(d)
+print(id(d))
+print()
+new_d=d.copy()
+print("after copying:", new_d)
+print(id(new_d))
+print()
+d.clear()
+print(d)

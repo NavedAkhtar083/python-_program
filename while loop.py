@@ -1,0 +1,8 @@
+#while Loop
+i=0
+while(i<=6):
+    print(i)
+    i=i+1
+else:
+    print("the sum of ")
+print("rest of teh code ")

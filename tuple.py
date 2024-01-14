@@ -1,0 +1,5 @@
+d=(4,5,7,"helloworld")
+print(d)
+print(type(d))
+print(d[3])
+print(d[2])
